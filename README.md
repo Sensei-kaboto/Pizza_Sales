@@ -8,6 +8,46 @@ This project is the first phase of a complete data analytics workflow. The next 
 
 ---
 
+## 🔄 Project Workflow
+
+```text
+CSV Dataset
+      │
+      ▼
+Import into SQL Server
+      │
+      ▼
+Data Cleaning & Validation
+      │
+      ▼
+Business KPI Calculation
+      │
+      ▼
+Sales Trend Analysis
+      │
+      ▼
+Product Performance Analysis
+      │
+      ▼
+Power BI Dashboard (Coming Next)
+```
+---
+## 📂 Dataset
+
+The dataset contains historical pizza sales transactions, including:
+
+- Order ID
+- Order Date
+- Order Time
+- Pizza Name
+- Pizza Category
+- Pizza Size
+- Quantity Sold
+- Unit Price
+- Total Price
+
+---
+
 ## 🎯 Business Objectives
 
 The analysis aims to answer the following business questions:
@@ -23,13 +63,48 @@ The analysis aims to answer the following business questions:
 
 ---
 
-## 🛠️ Tools Used
+## 🧹 Data Cleaning
 
-* **SQL Server**
-* **DBeaver**
-* **Git & GitHub**
+Before performing the analysis, the dataset was cleaned and validated.
+
+The following steps were completed:
+
+- Imported the CSV dataset into SQL Server.
+- Optimized column data types to improve storage efficiency.
+- Converted text-based dates into SQL `DATE` format.
+- Validated date conversions using `TRY_CONVERT()`.
+- Checked for invalid and missing values.
+- Ensured numeric columns used appropriate data types.
 
 ---
+
+## 🛠️ Tools Used
+
+- SQL Server
+- DBeaver
+- Git
+- GitHub
+- Microsoft Excel (Dataset)
+
+---
+
+## 💼 Skills Demonstrated
+
+Throughout this project, the following SQL and analytical skills were applied:
+
+- Data Cleaning
+- Data Validation
+- Data Type Optimization
+- SQL Query Writing
+- Business KPI Calculation
+- Sales Trend Analysis
+- Product Performance Analysis
+- Data Aggregation
+- Business Insight Generation
+- Documentation
+
+---
+
 
 ## 📊 Key Performance Indicators (KPIs)
 
