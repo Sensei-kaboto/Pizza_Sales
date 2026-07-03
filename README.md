@@ -7,6 +7,11 @@ This project analyzes a pizza sales dataset using **SQL Server** to extract mean
 This project is the first phase of a complete data analytics workflow. The next phase will involve building an interactive **Excel dashboard** based on the SQL analysis.
 
 ---
+<img width="1511" height="874" alt="Pizza" src="https://github.com/user-attachments/assets/fdcaefe0-3cb3-4ca8-90d0-fdbf04a1142f" />
+
+
+
+---
 
 ## 🔄 Project Workflow
 
