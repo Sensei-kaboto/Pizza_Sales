@@ -34,7 +34,7 @@ Sales Trend Analysis
 Product Performance Analysis
       │
       ▼
-Power BI Dashboard (Coming Next)
+EXCEL Dashboard 
 ```
 ---
 ## 📂 Dataset
