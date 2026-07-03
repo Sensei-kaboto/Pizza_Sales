@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project analyzes a pizza sales dataset using **SQL Server** to extract meaningful business insights. The objective is to answer key business questions by calculating important KPIs, identifying sales trends, and analyzing product performance.
+This project analyzes a pizza sales dataset using SQL Server for data analysis and Microsoft Excel for dashboard creation. The objective is to transform raw sales data into actionable business insights by calculating key performance indicators (KPIs), identifying sales trends, and visualizing results through an interactive dashboard.
 
-This project is the first phase of a complete data analytics workflow. The next phase will involve building an interactive **Excel dashboard** based on the SQL analysis.
+The project demonstrates the complete analytics workflow,from querying data with SQL to presenting findings in a business-friendly Excel dashboard.
 
 ---
 <img width="1511" height="874" alt="Pizza" src="https://github.com/user-attachments/assets/fdcaefe0-3cb3-4ca8-90d0-fdbf04a1142f" />
@@ -57,14 +57,15 @@ The dataset contains historical pizza sales transactions, including:
 
 The analysis aims to answer the following business questions:
 
-* What is the total revenue generated?
-* What is the average order value?
-* How many pizzas were sold?
-* How many orders were placed?
-* What is the average number of pizzas per order?
-* Which days and hours generate the most orders?
-* Which pizza categories and sizes contribute the most to sales?
-* What are the best-selling and worst-selling pizzas?
+What is the total revenue generated?
+What is the average order value?
+How many pizzas were sold?
+How many orders were placed?
+What is the average number of pizzas per order?
+Which days and hours receive the most orders?
+Which pizza categories generate the highest sales?
+Which pizza sizes contribute the most revenue?
+What are the best-selling and worst-selling pizzas?
 
 ---
 
@@ -89,72 +90,57 @@ The following steps were completed:
 - DBeaver
 - Git
 - GitHub
-- Microsoft Excel (Dataset)
+- Microsoft Excel 
 
 ---
 
-## 💼 Skills Demonstrated
+## 📊 SQL Analysis
 
-Throughout this project, the following SQL and analytical skills were applied:
+Using SQL, I calculated:
 
-- Data Cleaning
-- Data Validation
-- Data Type Optimization
-- SQL Query Writing
-- Business KPI Calculation
-- Sales Trend Analysis
-- Product Performance Analysis
-- Data Aggregation
-- Business Insight Generation
-- Documentation
-
+Key Performance Indicators (KPIs)
+Total Revenue
+Average Order Value
+Total Orders
+Total Pizzas Sold
+Average Pizzas per Order
+Sales Trends
+Daily Order Trend
+Hourly Order Trend
+Sales Analysis
+Sales Distribution by Pizza Category
+Sales Distribution by Pizza Size
+Monthly Sales Analysis
+Quarterly Sales Analysis
+Product Performance
+Total Pizzas Sold by Category
+Top 5 Best-Selling Pizzas
+Bottom 5 Worst-Selling Pizzas
 ---
-
-
-## 📊 Key Performance Indicators (KPIs)
-
-The following KPIs were calculated using SQL:
-
-* Total Revenue
-* Average Order Value
-* Total Pizzas Sold
-* Total Orders
-* Average Pizzas per Order
-
 ---
+## 📈 Excel Dashboard
 
-## 📈 Sales Analysis
+The SQL analysis was transformed into an interactive Excel dashboard featuring:
 
-The project includes several business analyses:
-
-### Daily Sales Trend
-
-* Total orders by day of the week.
-
-### Hourly Sales Trend
-
-* Total orders by hour of the day.
-
-### Sales by Pizza Category
-
-* Total sales for each pizza category.
-* Percentage contribution of each category to total sales.
-* Monthly and quarterly category analysis.
-
-### Sales by Pizza Size
-
-* Total sales by pizza size.
-* Percentage contribution of each size.
-* Monthly and quarterly size analysis.
-
-### Product Performance
-
-* Total pizzas sold by category.
-* Top 5 best-selling pizzas.
-* Bottom 5 worst-selling pizzas.
-
+KPI Cards
+Daily Sales Trend
+Hourly Sales Trend
+Sales Distribution by Category
+Sales Distribution by Pizza Size
+Total Pizzas Sold by Category
+Top 5 Best Sellers
+Bottom 5 Worst Sellers
+Interactive Month Filter
+Business Insight Panels
+----
 ---
-
+## 💡 Key Insights
+The Classic category generated the highest sales volume.
+Large pizzas accounted for the largest share of total sales.
+Friday recorded the highest number of orders.
+Peak ordering hours were around 12–1 PM and 4–8 PM.
+The Classic Deluxe Pizza and The Barbecue Chicken Pizza ranked among the top-performing products.
+The Brie Carre Pizza recorded the lowest sales performance.
 ## 📂 Repository Structure
 
 ```
@@ -176,36 +162,30 @@ pizza-sales-sql-analysis/
 
 ---
 
-## 📚 SQL Concepts Demonstrated
+## 🧠 Skills Demonstrated
 
-This project demonstrates practical use of:
-
-* SELECT
-* Aggregate Functions (`SUM`, `COUNT`)
-* `GROUP BY`
-* `ORDER BY`
-* `DISTINCT`
-* Date Functions (`DATENAME`, `DATEPART`, `MONTH`)
-* Subqueries
-* Data Type Conversion using `CAST`
-
+SQL Query Writing
+Data Aggregation
+Business KPI Calculation
+Data Analysis
+Data Visualization
+Excel Dashboard Design
+Business Intelligence Reporting
+Sales Performance Analysis
+Data Storytelling
 ---
 
-## 🚀 Next Steps
-
-The next phase of this project will include:
-
-* Building an interactive Power BI dashboard.
-* Creating KPI cards.
-* Designing trend and comparison charts.
-* Adding interactive filters and slicers.
-* Publishing the completed dashboard.
 
 ---
+🚀 What I Learned
 
-## 📸 Project Preview
+Through this project, I strengthened my ability to:
 
-Screenshots of SQL queries and their outputs are included in the **images/** folder.
+Write SQL queries to solve real business problems.
+Transform raw data into meaningful insights.
+Build professional dashboards in Microsoft Excel.
+Communicate findings through data visualization and business storytelling.
+Structure an end-to-end analytics project suitable for a professional portfolio.
 
 ---
 
