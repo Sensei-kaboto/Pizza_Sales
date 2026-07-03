@@ -98,40 +98,40 @@ The following steps were completed:
 
 Using SQL, I calculated:
 
-Key Performance Indicators (KPIs)
-Total Revenue
-Average Order Value
-Total Orders
-Total Pizzas Sold
-Average Pizzas per Order
-Sales Trends
-Daily Order Trend
-Hourly Order Trend
-Sales Analysis
-Sales Distribution by Pizza Category
-Sales Distribution by Pizza Size
-Monthly Sales Analysis
-Quarterly Sales Analysis
-Product Performance
-Total Pizzas Sold by Category
-Top 5 Best-Selling Pizzas
-Bottom 5 Worst-Selling Pizzas
+- Key Performance Indicators (KPIs)
+- Total Revenue
+- Average Order Value
+- Total Orders
+- Total Pizzas Sold
+- Average Pizzas per Order
+- Sales Trends
+- Daily Order Trend
+- Hourly Order Trend
+- Sales Analysis
+- sales Distribution by Pizza Category
+- Sales Distribution by Pizza Size
+- Monthly Sales Analysis
+- Quarterly Sales Analysis
+- Product Performance
+- Total Pizzas Sold by Category
+- Top 5 Best-Selling Pizzas
+- Bottom 5 Worst-Selling Pizzas
 ---
 ---
 ## 📈 Excel Dashboard
 
 The SQL analysis was transformed into an interactive Excel dashboard featuring:
 
-KPI Cards
-Daily Sales Trend
-Hourly Sales Trend
-Sales Distribution by Category
-Sales Distribution by Pizza Size
-Total Pizzas Sold by Category
-Top 5 Best Sellers
-Bottom 5 Worst Sellers
-Interactive Month Filter
-Business Insight Panels
+- KPI Cards
+- Daily Sales Trend
+- Hourly Sales Trend
+- Sales Distribution by Category
+- Sales Distribution by Pizza Size
+- Total Pizzas Sold by Category
+- Top 5 Best Sellers
+- Bottom 5 Worst Sellers
+- Interactive Month Filter
+- Business Insight Panels
 ----
 ---
 ## 💡 Key Insights
@@ -164,15 +164,15 @@ pizza-sales-sql-analysis/
 
 ## 🧠 Skills Demonstrated
 
-SQL Query Writing
-Data Aggregation
-Business KPI Calculation
-Data Analysis
-Data Visualization
-Excel Dashboard Design
-Business Intelligence Reporting
-Sales Performance Analysis
-Data Storytelling
+- SQL Query Writing
+- Data Aggregation
+- Business KPI Calculation
+- Data Analysis
+- Data Visualization
+- Excel Dashboard Design
+- Business Intelligence Reporting
+- Sales Performance Analysis
+- Data Storytelling
 ---
 
 
@@ -181,11 +181,11 @@ Data Storytelling
 
 Through this project, I strengthened my ability to:
 
-Write SQL queries to solve real business problems.
-Transform raw data into meaningful insights.
-Build professional dashboards in Microsoft Excel.
-Communicate findings through data visualization and business storytelling.
-Structure an end-to-end analytics project suitable for a professional portfolio.
+- Write SQL queries to solve real business problems.
+- Transform raw data into meaningful insights.
+- Build professional dashboards in Microsoft Excel.
+- Communicate findings through data visualization and business storytelling.
+- Structure an end-to-end analytics project suitable for a professional portfolio.
 
 ---
 
